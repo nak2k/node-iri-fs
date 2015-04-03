@@ -1,0 +1,28 @@
+{
+  "name": "iri-fs",
+  "version": "0.0.1",
+  "description": "Mapping IRIs on the file system",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-iri-fs/issues"
+  },
+  "dependencies": {
+    "iri": "^1.1.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/nak2k/node-iri-fs",
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nak2k/node-iri-fs.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "IRI"
+  ],
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
