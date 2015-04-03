@@ -1,6 +1,6 @@
 {
   "name": "iri-fs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mapping IRIs on the file system",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
